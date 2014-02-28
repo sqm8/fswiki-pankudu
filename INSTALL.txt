@@ -1,0 +1,21 @@
+!!!パンくずリストプラグイン
+INSTALL
+
+!Hiroaki Sakuma <sakuma@bitcoffee.com>
+!Copyright 2005-2006 BitCoffee, Inc. All Rights Reserved.
+
+
+!!インストール
+
+展開すると，fswikiのディレクトリ構造となるので，必要なファイルをコピーしてください．
+
+plugin/pankudu
+plugin/pankudu/Initialize.pm
+plugin/pankudu/Install.pm
+plugin/pankudu/Pankudu.pm
+
+
+fswikiにログインして，プラグインのインストールを行ってください．
+
+
+
