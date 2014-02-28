@@ -3,7 +3,8 @@ package plugin::pankudu::Initialize;
 
 # $Id: Initialize.pm,v 1.1.1.1 2006/03/17 18:35:26 sakuma Exp $
 #
-# Copyright 2005-2006 BitCoffee, Inc. All rights reserved.
+# Copyright 2005-2009 BitCoffee, Inc. All rights reserved.
+# Copyright (C) medicalsystems, Inc.
 #
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions
@@ -38,7 +39,7 @@ use lib "./lib";
 
 # /**
 #  * Constructor
-#  * @author Hiroaki Sakuma <sakuma@bitcoffee.com>
+#  * @author Hiro Sakuma <sakuma@zero52.com>
 #  * @return $self
 #  */
 
@@ -54,7 +55,7 @@ sub new {
 
 # /*
 #  * hook
-#  * @author Hiroaki Sakuma <sakuma@bitcoffee.com>
+#  * @author Hiro Sakuma <sakuma@zero52.com>
 #  * @param $wiki
 #  * @param $name
 #  * @param @param

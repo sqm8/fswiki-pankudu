@@ -1,8 +1,9 @@
 !!!パンくずリストプラグイン
 README
 
-!Hiroaki Sakuma <sakuma@bitcoffee.com>
-!Copyright 2005-2006 BitCoffee, Inc. All Rights Reserved.
+!Hiro Sakuma <sakuma@zero52.com>
+!Copyright 2005-2009 BitCoffee, Inc. All Rights Reserved.
+!Copyright (C) medicalsystems, Inc. All Rights Reserved.
 
 
 !!パンくずリストプラグインとは
